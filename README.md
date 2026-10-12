@@ -73,3 +73,5 @@ Las pruebas revisan:
 4. Iniciar el lote.
 5. Resolver el resultado del trabajo.
 6. Revisar ingresos y estado final.
+
+gracias por leerme :)
